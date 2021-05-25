@@ -1,0 +1,57 @@
+body{
+    font-weight: bold;
+    margin-top: 0px;
+}
+.line{
+     font-weight: initial;
+     background: rgb(216, 214, 214);
+ }
+.buttonone{
+   background: rgb(230, 224, 224); 
+   border: none;
+   border-radius: 50%;
+   box-shadow: none;
+   cursor: progress;
+}
+
+.buttontwo{
+    border: 0px;
+    background-color: rgb(231, 220, 220);
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-left: 3px inset rgb(68, 0, 255);
+    width: 300px;
+    height: 50px;
+}
+
+select{
+    background: rgb(192, 192, 192);
+
+ 
+    border-radius: 40px;
+    box-shadow: 3px;
+}
+
+.select{
+    width: 60px;
+}
+
+.hududlar{
+    border-radius: 5px;
+}
+
+.td{
+    background:  rgb(241, 238, 238);
+}
+
+.white{
+    border-bottom: 1px solid rgb(156, 151, 151);
+}
+
+.red{
+    border-bottom: 1px solid rgb(156, 151, 151);
+}
+
+.blue{
+    border-bottom: 1px solid rgb(156, 151, 151);
+}
